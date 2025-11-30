@@ -1,0 +1,29 @@
+# ============================================================================
+# R Package Dependencies for Meta-Analysis Project
+# Foreign Accent Reduction in L2 English
+# ============================================================================
+#
+# Installation (run in R console):
+#   install.packages(c("metafor", "robumeta", "IRkernel"))
+#   IRkernel::installspec(user = TRUE)
+#
+# Usage:
+#   - Stage 2 (Statistical Analysis): Statistical_Analysis.ipynb
+#
+# ============================================================================
+
+# Meta-Analysis Packages
+metafor     # >= 3.0.0 - Meta-analytic models & moderator analyses
+robumeta    # >= 2.0   - Robust variance estimation for clustered effects
+
+# Jupyter Integration
+IRkernel    # R kernel for Jupyter Notebook
+
+# ============================================================================
+# Package References:
+# - Viechtbauer, W. (2010). Conducting meta-analyses in R with the metafor 
+#   package. Journal of Statistical Software, 36(3), 1-48.
+# - Hedges, L. V., Tipton, E., & Johnson, M. C. (2010). Robust variance 
+#   estimation in meta-regression with dependent effect size estimates.
+#   Research Synthesis Methods, 1(1), 39-65.
+# ============================================================================

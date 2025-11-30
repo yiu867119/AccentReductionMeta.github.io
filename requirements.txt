@@ -1,0 +1,28 @@
+# ============================================================================
+# Python Dependencies for Meta-Analysis Project
+# Foreign Accent Reduction in L2 English
+# ============================================================================
+#
+# Installation:
+#   pip install -r requirements.txt
+#
+# Usage:
+#   - Stage 1 (Data Preparation): Meta_ready_cleaned.ipynb
+#   - Stage 3 (Data Visualization): Data_Visualization.ipynb
+#
+# ============================================================================
+
+# Core Data Processing
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Visualization
+matplotlib>=3.4.0
+scipy>=1.7.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: Enhanced Notebook Experience
+jupyterlab>=3.0.0  # Modern notebook interface (optional)
