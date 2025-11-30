@@ -15,11 +15,6 @@ This meta-analysis systematically synthesizes empirical studies on **Foreign Acc
 2. **Learner-related moderators** (age, L1, proficiency, education stage, English major status, learning context)  
 3. **Training-related moderators** (context, focus type, target features, feedback type, duration, instructor type, peer interaction, visual cues)  
 
-**Key Outcomes:**
-- **Accentedness**: Perceived degree of foreign accent
-- **Comprehensibility**: Ease of understanding for listeners
-- **Pronunciation Accuracy**: Objective phonetic/phonological measures
-
 ---
 
 ## 🔄 Complete Workflow
@@ -336,5 +331,6 @@ See **Repository Structure** section above for detailed output file descriptions
 ---
 
 **Last Updated**: November 30, 2025
+
 
 
